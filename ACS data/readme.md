@@ -11,4 +11,4 @@ Each folder represents a different ACS data table. In this project we will be us
 * B25056 provides information about average rents
 * B25075 provides information about home values
 
-The file tractdata.csv contains information on most of the above variables for every census tract in Los Angeles County. 
+The file tractdata.csv contains information on most of the above variables for every census tract in Los Angeles County, from the 2018 5-year ACS (detailed tables).
