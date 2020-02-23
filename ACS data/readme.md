@@ -1,4 +1,4 @@
-### How to use these data
+### How to use the data in this folder
 Each folder represents a different ACS data table. In this project we will be using three tables:
 
 * DP03 provides information about employment and income
@@ -10,3 +10,5 @@ Each folder represents a different ACS data table. In this project we will be us
 * B00002 provides a count of housing units
 * B25056 provides information about average rents
 * B25075 provides information about home values
+
+The file tractdata.csv contains information on most of the above variables for every census tract in Los Angeles County. 
